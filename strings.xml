@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Touch Assist</string>
+    <string name="service_desc">Hiển thị nút Home ảo giúp người lớn tuổi quay lại, về trang chủ, xem thông báo và chạy các thao tác vuốt do chính bạn vẽ. Chỉ thực hiện khi bạn chạm nút. Không đọc nội dung màn hình.</string>
+</resources>
